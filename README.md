@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flask applications
 - 🌱 I’m currently learning APIs
 - 👯 I’m looking to collaborate on Web applications
-- 🤔 I’m looking for help with API
+- 🤔 I’m looking for help with Web Security
 - 📫 How to reach me: facebook.com/stephen.joaquin.52
 - ⚡ Fun fact: 420
 
