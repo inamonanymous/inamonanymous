@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Flask applications
+- 🔭 I’m currently working on Flask applications with responsive web design!
 - 🌱 I’m currently learning more about APIs
 - 👯 I’m looking to collaborate on Web applications
 - 🤔 I’m looking for help with testing and debugging
